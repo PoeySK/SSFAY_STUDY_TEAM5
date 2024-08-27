@@ -8,7 +8,7 @@
 
 
 ## 💬 회의 (Meet)
-- 일주일 1번, 수요일 12:45 ~
+- 일주일 1번, [수요일 12:30(45) ~ ] (밥 시간)
 
 
 ## ❓ 문제 (Problem)
@@ -20,7 +20,7 @@
 - 이해루: [HAEROOL](https://github.com/HAEROOL)
 - 전아현: [Jeon-Ahhyeon](https://github.com/Jeon-Ahhyeon)
 - 이하영: [lha0](https://github.com/lha0)
-
+- 김태경: [timotheekim10](https://github.com/timotheekim10)  << 추가 멤버
 
 ## 💸 벌칙(벌금)
 > 안풀시(못풀시 x)
