@@ -18,9 +18,10 @@
 ## 👨‍👩‍👧‍👦 멤버 (Member)
 - 강성엽: [PoeySK](https://github.com/PoeySK)
 - 이해루: [HAEROOL](https://github.com/HAEROOL)
-- 전아현: [Jeon-Ahhyeon](https://github.com/Jeon-Ahhyeon)
+- 전아현: [HANoeJ](https://github.com/HANoeJ)
 - 이하영: [lha0](https://github.com/lha0)
 - 김태경: [timotheekim10](https://github.com/timotheekim10)
+- 신지혜: [singwisdom](https://github.com/singwisdom) 인턴
 
 ## 💸 벌칙(벌금)
 > 안풀시(못풀시 x)
